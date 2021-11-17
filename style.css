@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background: #d5d5d5;
+    width: 1440px;
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .header {
+    width: 1073px;
+    display: flex;
+    margin: 50px  auto;
+  }
+  
+  .pic {
+    width: 227px;
+    height: 216px;
+  }
+  
+  .heading {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 84px;
+    color: #767676;
+    margin-left: 58px;
+  }
+  
+  .portfolio {
+    width: 1321px;
+    margin-top: 119px;
+  }
+  
+  .p-text {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+  
+    color: #000000;
+  }
+  
+  .icons
+  {
+      margin-left: 69px;
+      margin-top: 41px;
+  }
+  
+  .icon-item
+  {
+      margin-left: 49px;
+  }
