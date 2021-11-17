@@ -33,6 +33,7 @@
   .portfolio {
     width: 1321px;
     margin-top: 119px;
+    margin: 0 -5px;
   }
   
   .p-text {
@@ -66,4 +67,5 @@
       height: 178.64px;
       left: 558.32px;
       top: 517.36px;
+      margin: 0 5px;
   }
