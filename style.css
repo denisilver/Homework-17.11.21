@@ -58,5 +58,18 @@
       margin-left: 49px;
   }
 
-
+  .imgcontent
+  {
+      display: flex;
+      flex-direction: row;
+      padding-left: 72px;
+      padding-right: 188,89px;
+      width: 206.47px; 
+      height: 178.64px;
+      left: 558.32px;
+      top: 517.36px;
+      margin: 5px;
+      padding-top: 83.3px;
+      border: ;
+  }
   
